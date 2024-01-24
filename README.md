@@ -31,3 +31,10 @@ I like **Biriyani** its famous in **visakhapatnam** Alpha restaurant
 |Radio silence|It points out that it's okay to not know who you are or what you want to do.|Alice oseman|
 
 
+## Favorite Quotes
+
+>It always seems impossible until it is done.
+* *Nelson Mandela*
+>I believe that when you put a smile out there,you get a smile back.
+* *Heidi Klum*
+
