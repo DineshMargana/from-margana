@@ -24,6 +24,7 @@ I like **Biriyani** its famous in **visakhapatnam** Alpha restaurant
 ## Recommended books
 
 |Book|Reason|Writer|
+|:---:|:---:|:---:|
 |Atomic habits|It helps a person in building good habits and breaking bad ones|James clear|
 |Ramayana|It tells the story of lord "Rama" who saves his kidnapped wife Sita|Valmiki|
 |Harry potter|It tells the story of a kid in fantasized wizard world|J.K.Rowling|
