@@ -7,9 +7,9 @@ I like **Biriyani** its famous in **visakhapatnam** Alpha restaurant
 ---
 
 ## Favorite dishes
-1. Chicken
-2. Mutton
-3. Fish
+1. Chicken curry
+2. Mutton curry
+3. Fish curryg
 
 ## Near by locations
 * Mozingo lake recreational park
