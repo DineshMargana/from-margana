@@ -38,3 +38,29 @@ I like **Biriyani** its famous in **visakhapatnam** Alpha restaurant
 >I believe that when you put a smile out there,you get a smile back.
 * *Heidi Klum*
 
+---
+
+## Code Fencing
+
+How to find Intersection using Dart source code?
+```
+main() {
+  final lists = [
+    [1, 2, 3, 55, 7, 99, 21],
+    [1, 4, 7, 65, 99, 20, 21],
+    [0, 2, 6, 7, 21, 99, 26]
+  ];
+
+  final commonElements =
+      lists.fold(
+        lists.first.toSet(), 
+        (a, b) => a.intersection(b.toSet()));
+        print(commonElements);
+}
+
+```
+
+
+  
+
+Link to reference <https://code.pieces.app/collections/dart>
